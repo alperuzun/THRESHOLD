@@ -16,24 +16,24 @@ To install THRESHOLD simply click the installation link below.
 
 LINK
 
-Once you have downloaded this folder, open the entire folder in a VScode IDE. When ready, simply 
+Once you have downloaded this folder, open the entire folder in a `VScode IDE`. When ready, simply 
 
 ## Getting Started
 
 ### File Format
-The inputed txt file must be formatted as such:
+The inputted `.txt` file must be formatted as such:
 
 ```
 Hugo_Symbol     Entrez_Gene_Id      {Patient1ID}    {Patient2ID}...
-   ...               ...               zscores...      zscores...
-   ...               ...               zscores...      zscores... 
+   ...               ...              zscores...       zscores...
+   ...               ...              zscores...       zscores... 
 ```
 
-*The Entrez_Gene_Id column is never actually used; it is a placeholder. As long as there is a space between the Hugo_Symbol and {Patient1ID} column it will run.
+* The Entrez_Gene_Id column is never actually used; it is a placeholder. As long as there is a space between the Hugo_Symbol and {Patient1ID} column it will run.
 
-*Note the first heading MUST be called Hugo_Symbol
+* Note the first heading MUST be called Hugo_Symbol
 
-*The columns must be separated by a tab `'\t'`
+* The columns must be separated by a tab `'\t'`
 
 ## Navigation
 
