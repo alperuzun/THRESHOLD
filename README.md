@@ -6,6 +6,7 @@ THRESHOLD is a novel gene saturation analysis GUI. THRESHOLD analyzes transcript
 
 - [Installation](#installation)
 - [Getting Started](#getting-started)
+  - [Running the Application](#running-the-application)  
   - [File Format](#file-format) 
 - [Navigation](#navigation)
 - [Output](#output)
@@ -55,7 +56,7 @@ Hugo_Symbol     Entrez_Gene_Id      {Patient1ID}    {Patient2ID}...
 This project was developed by Finán Gammell with support from Jennifer Li and Dr. Alper Uzun in the Uzun Lab at Brown University. 
 
 ## License 
-![Hi](https://fanatics.frgimages.com/stanford-cardinal/mens-nike-white-stanford-cardinal-heritage86-logo-performance-adjustable-hat_ss5_p-4991712+pv-1+u-2jkmyx3gdf1lv6qtciqp+v-gep8dwit0vaxld57fdpx.jpg?_hv=2&w=900)
+
 The MIT License (MIT)
 
 Copyright (c) 2023 Finán Gammell
