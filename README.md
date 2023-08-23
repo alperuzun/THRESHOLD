@@ -12,15 +12,20 @@ THRESHOLD is a novel gene saturation analysis GUI. THRESHOLD analyzes transcript
 
 ## Installation
 
-To install THRESHOLD simply click the installation link below.
+To install `THRESHOLD` simply click the installation link below.
 
 LINK
 
-Once you have downloaded this folder, open the entire folder in a `VScode IDE`. When ready, simply 
-
 ## Getting Started
 
+### Running the Application
+
+Once you have downloaded the above folder, open the entire folder in a `VScode IDE`. Ensure the `Python` and `Java` extensions are added. When ready, simply navigate to the `threshold.gui` file and press run to begin. A window should appear, prompting the input of a file. 
+
 ### File Format
+
+`THRESHOLD` requires the input of a file of patient transcriptomic data with gene expression zscores ideally compared with a control population. 
+
 The inputted `.txt` file must be formatted as such:
 
 ```
@@ -50,7 +55,7 @@ Hugo_Symbol     Entrez_Gene_Id      {Patient1ID}    {Patient2ID}...
 This project was developed by Finán Gammell with support from Jennifer Li and Dr. Alper Uzun in the Uzun Lab at Brown University. 
 
 ## License 
-
+![Hi](https://fanatics.frgimages.com/stanford-cardinal/mens-nike-white-stanford-cardinal-heritage86-logo-performance-adjustable-hat_ss5_p-4991712+pv-1+u-2jkmyx3gdf1lv6qtciqp+v-gep8dwit0vaxld57fdpx.jpg?_hv=2&w=900)
 The MIT License (MIT)
 
 Copyright (c) 2023 Finán Gammell
