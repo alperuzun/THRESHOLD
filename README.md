@@ -44,10 +44,10 @@ Hugo_Symbol     Entrez_Gene_Id      {Patient1ID}    {Patient2ID}...
 ## Navigation
 
 ### Page 1 | Uploading a File
-<img src="https://github.com/alperuzun/THRESHOLD/blob/main/page1.png?raw=true" alt="Page 1 Image" height: 100px;>
-To begin the analysis, simply upload a .txt file in the appropriate [format](#file-format) by clicking on the the upload file button.
+<img src="https://github.com/alperuzun/THRESHOLD/blob/main/page1.png?raw=true" alt="Page 1 Image" style: "max-height: 100px;">
+To begin the analysis, simply upload a .txt file in the appropriate [file format](#file-format) by clicking on the upload file button.
 
-To view info and documentation of the tool, press the appropriate icons in the GUI tool bar.
+To view info and documentation of the tool, press the appropriate icons in the GUI toolbar.
 ### Page 2 | Calculating Saturation
 
 ### Page 3 | Data Output
