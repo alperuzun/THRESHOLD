@@ -44,7 +44,7 @@ Hugo_Symbol     Entrez_Gene_Id      {Patient1ID}    {Patient2ID}...
 ## Navigation
 
 ### Page 1 | Uploading a File
-<img src="https://github.com/alperuzun/THRESHOLD/blob/main/page1.png?raw=true" alt="Page 1 Image" style="max-height: 100px;">
+<img src="https://github.com/alperuzun/THRESHOLD/blob/main/page1.png?raw=true" alt="Page 1 Image" style="max-height: 200;" >
 
 To begin the analysis, simply upload a .txt file in the appropriate [file format](#file-format) by clicking on the upload file button.
 
