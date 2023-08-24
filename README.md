@@ -44,7 +44,7 @@ Hugo_Symbol     Entrez_Gene_Id      {Patient1ID}    {Patient2ID}...
 ## Navigation
 
 ### Page 1 | Uploading a File
-
+![Page1](https://github.com/alperuzun/THRESHOLD/blob/main/page1.png?raw=true)
 ### Page 2 | Calculating Saturation
 
 ### Page 3 | Data Output
