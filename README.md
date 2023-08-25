@@ -46,13 +46,15 @@ Hugo_Symbol     Entrez_Gene_Id      {Patient1ID}    {Patient2ID}...
 ### Page 1 | Uploading a File
 <img src="https://github.com/alperuzun/THRESHOLD/blob/main/page1.png?raw=true" alt="Page 1 Image" height= 200 align = "left" >
 
-To begin the analysis, simply upload a .txt file in the appropriate [file format](#file-format) by clicking on the upload file button.
+To begin the analysis, simply upload a .txt file in the appropriate [file format](#file-format) by clicking on the upload file button. Wait about 5 seconds while the pseudogenes are removed, and you will automatically move to the next page.
 
 To view info and documentation of the tool, press the appropriate icons in the GUI toolbar.
 
 <br clear="left"/>
 
 ### Page 2 | Calculating Saturation
+<img src="https://github.com/alperuzun/THRESHOLD/blob/main/page2.png?raw=true" alt="Page 2 Image" height= 200 align = "left" >
+
 
 ### Page 3 | Data Output
 
