@@ -12,6 +12,7 @@ THRESHOLD is a novel gene saturation analysis GUI. THRESHOLD analyzes transcript
   - [Page 1 | Uploading a File](#page-1-|-uploading-a-file)
   - [Page 2 | Calculating Saturation](#page-2-|-uploading-a-file)
   - [Page 3 | Data Output](#page-3-|-data-output)
+- [Documentation](#documentation)
 - [Authors](#authors)
 - [License](#license)
 
@@ -80,7 +81,8 @@ To export a `.png` file of the Graph, a `.txt` file of the Data or a `.txt` file
 
 To begin a new analysis with the same file, press the back button. If you would like to restart your analysis entirely, press the restart button.
 
-## Output
+## Documentation
+To view the workflow of `THRESHOLD` in addition to a more in-depth analysis of standardization options and validation of calculations click the link to the '.pdf' file below.
 
 ## Authors
 
@@ -88,7 +90,7 @@ This project was developed by `Finán Gammell` with support from `Jennifer Li` a
 
 ## License 
 
-The MIT License (MIT)
+`The MIT License (MIT)`
 
 Copyright (c) 2023 Finán Gammell
 
