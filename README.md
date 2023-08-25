@@ -46,33 +46,33 @@ Hugo_Symbol     Entrez_Gene_Id      {Patient1ID}    {Patient2ID}...
 ### Page 1 | Uploading a File
 <img src="https://github.com/alperuzun/THRESHOLD/blob/main/page1.png?raw=true" alt="Page 1 Image" height= 220 align = "left" >
 
-To begin the analysis, simply upload a .txt file in the appropriate [file format](#file-format) by clicking on the upload file button. Wait about 5 seconds while the pseudogenes are removed, and you will automatically move to the next page.
+To begin the analysis, simply upload a `.txt` file in the appropriate [file format](#file-format) by clicking on the `Open File` button. Wait about 5 seconds while the pseudogenes are removed, and you will automatically move to the next page.
 
-To view info and documentation of the tool, press the appropriate icons in the GUI toolbar.
+To view `info` and `documentation` of the tool, press the appropriate icons in the `GUI` toolbar.
 
 <br clear="left"/>
 
 ### Page 2 | Calculating Saturation
 <img src="https://github.com/alperuzun/THRESHOLD/blob/main/page2.png?raw=true" alt="Page 2 Image" height= 220 align = "left"  >
 
-Confirm your file is uploaded with the dialog below the generate button.
+Confirm your file is uploaded with the dialog below the `Generate` button.
 
-Input the parameters according to your desired analyses. Clicking on the ⓘ icons will provide a detailed explanation of the parameter's domains and purpose.
+Input the parameters according to your desired analyses. Clicking on the `ⓘ` icons will provide a detailed explanation of the parameter's domains and purpose.
 
-Once satisfied with your inputs, press Generate. If the inputted file is formatted correctly, and the inputs accurate, an `In progress...` text dialog will appear. For a dataset of about 400 patients, you will need to wait about 2 minutes for the calculations to be made.
+Once satisfied with your inputs, press `Generate`. If the inputted file is formatted correctly, and the inputs accurate, an `In progress...` text dialog will appear. For a dataset of about 400 patients, you will need to wait about 2 minutes for the calculations to be made.
 
 If you would like to restart your analyses with a different file, press the restart button in the top right corner. 
 <br clear="left"/>
 ### Page 3 | Data Output
 <img src="https://github.com/alperuzun/THRESHOLD/blob/main/page3.png?raw=true" alt="Page 3 Image" height= 220 align = "left" style = "margin-bottom: 20px" >
 
-A saturation curve will appear indicating saturation type by nth ranked gene. See documentation for calculation methods.
+A saturation curve will appear indicating `saturation type` by `nth ranked gene`. See documentation for methods.
 
-Hover over the graph to find specific saturation values. Alternatively, you can use the Find Threshold input to find when a certain saturation level is reached and the Specific Value input to evaluate the saturation of a specific nth gene. Clicking on the ⓘ icons will provide a detailed explanation of the parameter's domains and purpose.
+Hover over the graph to find specific saturation values. Alternatively, use the `Find Threshold` input to find when a certain saturation level is reached and the `Specific Value` input to evaluate the saturation of a specific `nth gene`. Clicking on the `ⓘ` icons will provide a detailed explanation of the parameter's domains and purpose.
 
-Additionally, you can find the most saturated genes with the Top x Saturated Genes button. Simply enter the number of top genes you want to find in the `x:` parameter and press the button. 
+Additionally, you can find the most saturated genes with the `Top x Saturated Genes` button. Simply enter the number of top genes you want to find in the `x:` parameter and press the button. 
 
-To export a .png file of the Graph, a .txt file of the Data or a .txt file of removed pseudogenes, press the corresponding buttons above the graph.
+To export a `.png` file of the Graph, a `.txt` file of the Data or a `.txt` file of removed pseudogenes, press the corresponding buttons above the graph.
 
 To begin a new analysis with the same file, press the back button. If you would like to restart your analysis entirely, press the restart button.
 
@@ -80,7 +80,7 @@ To begin a new analysis with the same file, press the back button. If you would 
 
 ## Authors
 
-This project was developed by Finán Gammell with support from Jennifer Li and Dr. Alper Uzun in the Uzun Lab at Brown University. 
+This project was developed by `Finán Gammell` with support from `Jennifer Li` and `Dr. Alper Uzun` in the Uzun Lab at Brown University. 
 
 ## License 
 
