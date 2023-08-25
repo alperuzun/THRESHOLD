@@ -44,7 +44,7 @@ Hugo_Symbol     Entrez_Gene_Id      {Patient1ID}    {Patient2ID}...
 ## Navigation
 
 ### Page 1 | Uploading a File
-<img src="https://github.com/alperuzun/THRESHOLD/blob/main/page1.png?raw=true" alt="Page 1 Image" height= 200 align = "left" >
+<img src="https://github.com/alperuzun/THRESHOLD/blob/main/page1.png?raw=true" alt="Page 1 Image" height= 220 align = "left" >
 
 To begin the analysis, simply upload a .txt file in the appropriate [file format](#file-format) by clicking on the upload file button. Wait about 5 seconds while the pseudogenes are removed, and you will automatically move to the next page.
 
@@ -53,8 +53,17 @@ To view info and documentation of the tool, press the appropriate icons in the G
 <br clear="left"/>
 
 ### Page 2 | Calculating Saturation
-<img src="https://github.com/alperuzun/THRESHOLD/blob/main/page2.png?raw=true" alt="Page 2 Image" height= 200 align = "left" >
+<img src="https://github.com/alperuzun/THRESHOLD/blob/main/page2.png?raw=true" alt="Page 2 Image" height= 220 align = "left" >
 
+Confirm your file is uploaded with the dialog below the generate button.
+
+Input the parameters according to your desired analyses. Clicking on the ⓘ icons will provide a detailed explanation of the parameter's domains and purpose.
+
+Once satisfied with your inputs, press Generate. If the inputted file is formatted correctly, and the inputs accurate, an `In progress...` text dialog will appear. For a dataset of about 400 patients, you will need to wait about 2 minutes for the calculations to be made.
+
+If you would like to restart your analyses with a different file, press the restart button in the top right corner. 
+
+<br clear="left"/>
 
 ### Page 3 | Data Output
 
