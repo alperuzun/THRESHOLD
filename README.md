@@ -50,6 +50,8 @@ To begin the analysis, simply upload a .txt file in the appropriate [file format
 
 To view info and documentation of the tool, press the appropriate icons in the GUI toolbar.
 
+<br clear="left"/>
+
 ### Page 2 | Calculating Saturation
 
 ### Page 3 | Data Output
