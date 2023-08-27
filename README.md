@@ -9,9 +9,9 @@ THRESHOLD is a novel gene saturation analysis GUI. THRESHOLD analyzes transcript
   - [Running the Application](#running-the-application)  
   - [File Format](#file-format) 
 - [Navigation](#navigation)
-  - [Page 1 | Uploading a File](#page-1-uploading-a-file)
-  - [Page 2 | Calculating Saturation](#page-2-calculating-saturation)
-  - [Page 3 | Data Output](#page-3-data-output)
+  - [Page 1 Uploading a File](#page-1-uploading-a-file)
+  - [Page 2 Calculating Saturation](#page-2-calculating-saturation)
+  - [Page 3 Data Output](#page-3-data-output)
 - [Documentation](#documentation)
 - [Authors](#authors)
 - [License](#license)
@@ -48,7 +48,7 @@ Hugo_Symbol     Entrez_Gene_Id      {Patient1ID}    {Patient2ID}...
 
 ## Navigation
 
-### Page 1 | Uploading a File
+### Page 1 Uploading a File
 <img src="https://github.com/alperuzun/THRESHOLD/blob/main/page1.png?raw=true" alt="Page 1 Image" height= 220 align = "left" >
 
 To begin the analysis, simply upload a `.txt` file in the appropriate [file format](#file-format) by clicking on the `Open File` button. Wait about 5 seconds while the pseudogenes are removed, and you will automatically move to the next page.
@@ -57,7 +57,7 @@ To view `info` and `documentation` of the tool, press the appropriate icons in t
 
 <br clear="left"/>
 
-### Page 2 | Calculating Saturation
+### Page 2 Calculating Saturation
 <img src="https://github.com/alperuzun/THRESHOLD/blob/main/page2.png?raw=true" alt="Page 2 Image" height= 220 align = "left"  >
 
 Confirm your file is uploaded with the dialog below the `Generate` button.
@@ -68,7 +68,7 @@ Once satisfied with your inputs, press `Generate`. If the inputted file is forma
 
 If you would like to restart your analyses with a different file, press the restart button in the top right corner. 
 <br clear="left"/>
-### Page 3 | Data Output
+### Page 3 Data Output
 <img src="https://github.com/alperuzun/THRESHOLD/blob/main/page3.png?raw=true" alt="Page 3 Image" height= 220 align = "left" style = "margin-bottom: 20px" >
 
 A saturation curve will appear indicating `saturation type` by `nth ranked gene`. See documentation for methods.
