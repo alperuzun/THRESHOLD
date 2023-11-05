@@ -20,7 +20,7 @@ THRESHOLD is a novel gene saturation analysis GUI. THRESHOLD analyzes transcript
 
 To install `THRESHOLD` simply click the installation link below.
 
-[MacOS Download](https://drive.google.com/file/d/10TTXdLrfpfeyA6iSFhLY5S3K25q9KpTt/view?usp=sharing)
+[MacOS Download](https://drive.google.com/file/d/1r35Pa3JOEH4k3YI6-t39nIMA6qE28V2x/view?usp=sharing)
 
 ## Getting Started
 
