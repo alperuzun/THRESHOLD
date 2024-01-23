@@ -37,17 +37,18 @@ Once you have downloaded the above folder, open the entire folder in a `VScode I
 
 ### File Format
 
-`THRESHOLD` requires the input of a file of patient transcriptomic data with gene expression zscores ideally compared with a control population. 
+`THRESHOLD` requires the input of a file of patient transcriptomic data with gene expression data in the form of zscores or percentiles comparing expression against a control population, or ranked relatively within an individual patient’s expression. 
 
 The inputted `.txt` file must be formatted as such:
 
 ```
-Hugo_Symbol     Entrez_Gene_Id      {Patient1ID}    {Patient2ID}...
-   ...               ...              zscores...       zscores...
-   ...               ...              zscores...       zscores... 
+Hugo_Symbol        {Blank}           {Patient1ID}           {Patient2ID}...
+   ...               ...         zscores/percentile...   zscores/percentile...    
+   ...               ...         zscores/percentile...   zscores/percentile...    
+
 ```
 
-* The Entrez_Gene_Id column is never actually used; it is a placeholder. As long as there is a space between the Hugo_Symbol and {Patient1ID} column it will run.
+* The Blank column is never actually used; it is a placeholder. Given space between the Hugo_Symbol and {Patient1ID} column, THRESHOLD will run.
 
 * Note the first heading MUST be called Hugo_Symbol
 
@@ -94,11 +95,11 @@ To begin a new analysis with the same file, press the back button. If you would 
 ### Run Paired T Test
 <img src="https://github.com/alperuzun/THRESHOLD/blob/main/threshold/assets/page4.png?raw=true" alt="Page 4 Image" height= 240 align = "left" style = "margin-bottom: 20px" >
 
+`THRESHOLD` facilitates the statistical comparison between two saturation data sets to assess whether there are statistically significant differences between samples to provide additional insights in user analyses. 
+
 Upload the two `saturation files` you would like to compare by clicking on the black fields.
 
-Ensure the files are in the proper, standard format `(.txt)` as exported by the `THRESHOLD` tool.
-
-The files should have three columns, `“Nth Gene Included,”` `“Incremental Saturation,”` and `“Overall Saturation.”` The file should be the same size; ie, the same number of rows.
+Ensure the files are in the proper, standard format `(.txt)` as exported by the `THRESHOLD` tool. The files should have three columns, `“Nth Gene Included,”` `“Incremental Saturation,”` and `“Overall Saturation.”` The file should be the same size; ie, the same number of rows.
 
 To run the test, simply press the `Run Paired-T-Test` button.
 
