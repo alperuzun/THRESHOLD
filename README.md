@@ -92,18 +92,20 @@ To begin a new analysis with the same file, press the back button. If you would 
 ### Run Paired T Test
 <img src="https://github.com/alperuzun/THRESHOLD/blob/main/threshold/assets/page4.png?raw=true" alt="Page 4 Image" height= 220 align = "left" style = "margin-bottom: 20px" >
 
-Upload the two saturation files you would like to compare by clicking on the black fields.
+Upload the two `saturation files` you would like to compare by clicking on the black fields.
 
-Ensure the files are in the proper, standard format (.txt) as exported by the THRESHOLD tool. The files should have three columns, “Nth Gene Included,” “Incremental Saturation,” and “Overall Saturation.” The file should be the same size; ie, the same number of rows.
+Ensure the files are in the proper, standard format `(.txt)` as exported by the `THRESHOLD` tool. The files should have three columns, `“Nth Gene Included,”` `“Incremental Saturation,”` and `“Overall Saturation.”` The file should be the same size; ie, the same number of rows.
 
-To run the test, simply press the Run Paired-T-Test button.
+To run the test, simply press the `Run Paired-T-Test` button.
 
 To navigate back home, simply press restart in the top right corner. 
 
 ### Assess Significance
 <img src="https://github.com/alperuzun/THRESHOLD/blob/main/threshold/assets/page5.png?raw=true" alt="Page 5 Image" height= 220 align = "left" style = "margin-bottom: 20px" >
 
-This page simply outlines the result of your analyses, describing whether the differences between the saturation types in each data set yielded `statistically significant` differences. This result is outlined in the orange box. Additional relevant statistical measures, including the calculated `p-value`, are also listed.
+This page simply outlines the result of your analyses, describing whether the differences between the saturation types in each data set yielded `statistically significant` differences. 
+
+This result is outlined in the orange box. Additional relevant statistical measures, including the calculated `p-value`, are also listed.
 
 To download a more detailed description of the statistical analyses, press `“Download Full Report”` to export a `(.txt)` file of relevant calculated statistical measures for each of the saturation types.
 
