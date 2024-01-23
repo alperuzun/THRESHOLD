@@ -103,9 +103,9 @@ To navigate back home, simply press restart in the top right corner.
 ### Assess Significance
 <img src="https://github.com/alperuzun/THRESHOLD/blob/main/threshold/assets/page5.png?raw=true" alt="Page 5 Image" height= 220 align = "left" style = "margin-bottom: 20px" >
 
-This page simply outlines the result of your analyses, describing whether the differences between the saturation types in each data set yielded statistically significant differences. This result is outlined in the orange box. Additional relevant statistical measures, including the calculated p-value, are also listed.
+This page simply outlines the result of your analyses, describing whether the differences between the saturation types in each data set yielded `statistically significant` differences. This result is outlined in the orange box. Additional relevant statistical measures, including the calculated `p-value`, are also listed.
 
-To download a more detailed description of the statistical analyses, press “Download Full Report” to export a (.txt) file of relevant calculated statistical measures for each of the saturation types.
+To download a more detailed description of the statistical analyses, press `“Download Full Report”` to export a `(.txt)` file of relevant calculated statistical measures for each of the saturation types.
 
 To begin a new statistical analysis, press the back button. If you would like to restart entirely and navigate back home, press the back button. 
 
