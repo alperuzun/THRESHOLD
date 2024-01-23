@@ -94,7 +94,9 @@ To begin a new analysis with the same file, press the back button. If you would 
 
 Upload the two `saturation files` you would like to compare by clicking on the black fields.
 
-Ensure the files are in the proper, standard format `(.txt)` as exported by the `THRESHOLD` tool. The files should have three columns, `“Nth Gene Included,”` `“Incremental Saturation,”` and `“Overall Saturation.”` The file should be the same size; ie, the same number of rows.
+Ensure the files are in the proper, standard format `(.txt)` as exported by the `THRESHOLD` tool.
+
+The files should have three columns, `“Nth Gene Included,”` `“Incremental Saturation,”` and `“Overall Saturation.”` The file should be the same size; ie, the same number of rows.
 
 To run the test, simply press the `Run Paired-T-Test` button.
 
