@@ -58,7 +58,9 @@ Hugo_Symbol     Entrez_Gene_Id      {Patient1ID}    {Patient2ID}...
 ### Uploading a File
 <img src="https://github.com/alperuzun/THRESHOLD/blob/main/threshold/assets/page1.png?raw=true" alt="Page 1 Image" height= 220 align = "left" >
 
-To begin the analysis, simply upload a `.txt` file in the appropriate [file format](#file-format) by clicking on the `Open File` button. Wait about 5 seconds while the pseudogenes are removed, and you will automatically move to the next page.
+To begin the analysis, simply upload a `.txt` file in the appropriate [file format](#file-format) by clicking on the `Open File` button. 
+
+Once the button is clicked, about 5 seconds while the pseudogenes are removed and you will automatically move to the next page.
 
 To view `info` and `documentation` of the tool, press the appropriate icons in the `GUI` toolbar.
 
