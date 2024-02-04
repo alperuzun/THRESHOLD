@@ -17,7 +17,7 @@ In summary, the "THRESHOLD" tool serves as a useful addition to genomics researc
   - [Uploading a File](#uploading-a-file)
   - [Calculating Saturation](#calculating-saturation)
   - [Data Output](#data-output)
-  - [Run Paired T-Test](#run-paired-t-test)
+  - [Run Unpaired T-Test](#run-unpaired-t-test)
   - [Assess Significance](#assess-significance)
 - [Documentation](#documentation)
 - [Authors](#authors)
@@ -27,7 +27,7 @@ In summary, the "THRESHOLD" tool serves as a useful addition to genomics researc
 
 To install `THRESHOLD` simply click the installation link below.
 
-[MacOS Download](https://drive.google.com/file/d/18cO7RbVLj3etOX_sD0buZmvnxIPaHjb6/view?usp=sharing)
+[MacOS Download]([https://drive.google.com/file/d/18cO7RbVLj3etOX_sD0buZmvnxIPaHjb6/view?usp=sharing](https://drive.google.com/file/d/1WOVOi6zrOLPLbmu7yiolsY7RpbHcXqKV/view?usp=sharing))
 
 ## Getting Started
 
@@ -92,7 +92,7 @@ To export a `.png` file of the Graph, a `.txt` file of the Data or a `.txt` file
 
 To begin a new analysis with the same file, press the back button. If you would like to restart your analysis entirely, press the restart button.
 
-### Run Paired T Test
+### Run Unpaired T Test
 <img src="https://github.com/alperuzun/THRESHOLD/blob/main/threshold/assets/page4.png?raw=true" alt="Page 4 Image" height= 240 align = "left" style = "margin-bottom: 20px" >
 
 `THRESHOLD` facilitates the statistical comparison between two saturation data sets to assess whether there are statistically significant differences between samples to provide additional insights in user analyses. 
@@ -101,7 +101,7 @@ Upload the two `saturation files` you would like to compare by clicking on the b
 
 Ensure the files are in the proper, standard format `(.txt)` as exported by the `THRESHOLD` tool. The files should have three columns, `“Nth Gene Included,”` `“Incremental Saturation,”` and `“Overall Saturation.”` The file should be the same size; ie, the same number of rows.
 
-To run the test, simply press the `Run Paired-T-Test` button.
+To run the test, simply press the `Run Unpaired-T-Test` button.
 
 To navigate back home, simply press restart in the top right corner. 
 
