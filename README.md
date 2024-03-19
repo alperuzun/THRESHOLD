@@ -21,6 +21,7 @@ In summary, the "THRESHOLD" tool serves as a useful addition to genomics researc
   - [Assess Significance](#assess-significance)
 - [Documentation](#documentation)
 - [Authors](#authors)
+- [Contact](#contact)
 - [License](#license)
 
 ## Installation
@@ -123,7 +124,10 @@ To view the workflow of `THRESHOLD` in addition to a more in-depth analysis of s
 
 ## Authors
 
-This project was developed by `Finán Gammell`, `Jennifer Li` and `Dr. Alper Uzun` in the Uzun Lab at Brown University. 
+This project was developed by `Finán Gammell`, `Jennifer Li`, `Christopher Elco`, `Jessica Plavicki`, and `Dr. Alper Uzun` in the Uzun Lab at Brown University. 
+
+## Contact
+Reach out to alper_uzun@brown.edu with any questions.
 
 ## License 
 
