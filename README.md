@@ -118,7 +118,7 @@ To download a more detailed description of the statistical analyses, press `“D
 To begin a new statistical analysis, press the back button. If you would like to restart entirely and navigate back home, press the back button. 
 
 ## Documentation
-To view the workflow of `THRESHOLD` in addition to a more in-depth analysis of standardization options and validation of calculations click the link to the '.pdf' file below.
+To view the workflow of `THRESHOLD` in addition to a more in-depth analysis of standardization options and validation of calculations click the link to the `.pdf` file below.
 
 [THRESHOLD Documentation](https://docs.google.com/document/d/1NeoYF399lZUFfhjw6PwqiMv5RLBK1n9e/edit)
 
