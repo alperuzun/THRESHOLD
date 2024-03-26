@@ -28,7 +28,7 @@ In summary, the "THRESHOLD" tool serves as a useful addition to genomics researc
 
 To install `THRESHOLD` simply click the installation link below.
 
-[MacOS Download](https://drive.google.com/file/d/1WOVOi6zrOLPLbmu7yiolsY7RpbHcXqKV/view?usp=sharing)
+[MacOS Download](https://drive.google.com/file/d/17UkAbJQHSt2Yj9sFFznFbUiRfAhF1EAX/view?usp=sharing)
 
 ## Getting Started
 
