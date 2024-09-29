@@ -28,7 +28,7 @@ In summary, the "THRESHOLD" tool serves as a useful addition to genomics researc
 
 To install `THRESHOLD` simply click the installation link below.
 
-[THRESHOLD Download](https://drive.google.com/file/d/1SgcgIR8gk_B-3cvNcvOswVpyHAbzVWfZ/view?usp=drive_link)
+[THRESHOLD Download](https://drive.google.com/file/d/1bURcDo8trd-iMTFFCSdvFuyNl2Yt1mE5/view?usp=sharing)
 
 ## Getting Started
 
@@ -73,7 +73,7 @@ To view `info` and `documentation` of the tool, press the appropriate icons in t
 
 Confirm your file is uploaded with the dialog below the `Generate` button.
 
-Input the parameters according to your desired analyses. Clicking on the `ⓘ` icons will provide a detailed explanation of the parameter's domains and purpose.
+Input the parameters according to your desired analyses. Clicking on the `ⓘ` icons will provide a detailed explanation of the parameter's domains and purpose. Note that regardless of the saturation type selected to be visualized, both data sets can be downloaded together in the succeeding interface. See below for details.
 
 Once satisfied with your inputs, press `Generate`. If the inputted file is formatted correctly, and the inputs accurate, an `In progress...` text dialog will appear. For a dataset of about 400 patients, you will need to wait about 2 minutes for the calculations to be made.
 
@@ -89,7 +89,7 @@ Hover over the graph to find specific saturation values. Alternatively, use the 
 
 Additionally, you can find the most saturated genes with the `Top x Saturated Genes` button. Simply enter the number of top genes you want to find in the `x:` parameter and press the button. 
 
-To export a `.png` file of the Graph, a `.txt` file of the Data or a `.txt` file of removed pseudogenes, press the corresponding buttons above the graph.
+To export a `.png` file of the Graph, a `.txt` file of the saturation Data or a `.txt` file of removed pseudogenes, press the corresponding buttons above the graph.
 
 To begin a new analysis with the same file, press the back button. If you would like to restart your analysis entirely, press the restart button.
 
