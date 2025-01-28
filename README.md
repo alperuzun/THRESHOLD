@@ -10,6 +10,8 @@ In summary, the "THRESHOLD" tool serves as a useful addition to genomics researc
 ## Table of Contents
 
 - [Installation](#installation)
+  - [Application Download](#application-download)
+  - [Dependencies](#dependencies)
 - [Getting Started](#getting-started)
   - [Running the Application](#running-the-application)  
   - [File Format](#file-format) 
@@ -26,9 +28,43 @@ In summary, the "THRESHOLD" tool serves as a useful addition to genomics researc
 
 ## Installation
 
+### Application Download
+
 To install `THRESHOLD` simply click the installation link below.
 
 [THRESHOLD Download](https://drive.google.com/file/d/1bURcDo8trd-iMTFFCSdvFuyNl2Yt1mE5/view?usp=sharing)
+
+Open `THRESHOLD` in the development environment of your choice, although `VS Code` is recommended. 
+
+### Dependencies
+
+To run `THRESHOLD`, ensure you have `Java` and `Python 3.8+` in addition to the following dependencies.
+
+```
+------------------------
+Install NumPy
+Using pip: Run the following command in your terminal or command prompt:
+"pip install numpy"
+------------------------
+Install UltraJSON
+Using pip: Run the following command in your terminal or command prompt:
+"pip install ujson"
+------------------------
+Install SciPy
+Using pip: Run the following command in your terminal or command prompt:
+"pip install scipy"
+------------------------
+Install Matplotlib
+Using pip: Run the following command in your terminal or command prompt:
+"pip install matplotlib"
+------------------------
+Install pandas
+Using pip: Run the following command in your terminal or command prompt:
+"pip install pandas"
+------------------------
+```
+
+Note some command prompts may require different package management systems. Substitute `"pip"` for `"pip3"` if the commands do not work.
 
 ## Getting Started
 
