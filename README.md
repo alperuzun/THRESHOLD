@@ -11,7 +11,7 @@ In summary, the "THRESHOLD" tool serves as a useful addition to genomics researc
 
 - [Installation](#installation)
   - [Application Download](#application-download)
-  - [Dependencies](#dependencies)
+  - [Set Up](#set-up)
 - [Getting Started](#getting-started)
   - [Running the Application](#running-the-application)  
   - [File Format](#file-format) 
@@ -32,39 +32,32 @@ In summary, the "THRESHOLD" tool serves as a useful addition to genomics researc
 
 To install `THRESHOLD` simply click the installation link below.
 
-[THRESHOLD Download](https://drive.google.com/file/d/1bURcDo8trd-iMTFFCSdvFuyNl2Yt1mE5/view?usp=sharing)
+[THRESHOLD Download](https://drive.google.com/file/d/14PiWAlUpkcruer_4g3ZM7sIxe5tc0wDW/view?usp=sharing)
 
 Open `THRESHOLD` in the development environment of your choice, although `VS Code` is recommended. 
 
-### Dependencies
+### Set Up
 
-To run `THRESHOLD`, ensure you have `Java` and `Python 3.8+` in addition to the following dependencies.
+1. To run `THRESHOLD`, ensure you have `Java 8+` and `Python 3.8+` installed. Ensure appropriate IDE specific extensions are also installed for `Java` and `Python`. 
+2. Next navigate to your `THRESHOLD` folder that you have just downloaded and locate the `setup.sh` file.
+3. Right-click the file and click `Get Info`.
+4. Copy the file path from the `Where` section.
+5. Open your terminal and run the following command:
+
+```bash
+cd directory_path
+```
+Replace `directory path` with the file path copied from step 4. 
+
+6. Next, run the following set up script to automatically download all required dependencies and compile the cleaning script:
 
 ```
-------------------------
-Install NumPy
-Using pip: Run the following command in your terminal or command prompt:
-"pip install numpy"
-------------------------
-Install UltraJSON
-Using pip: Run the following command in your terminal or command prompt:
-"pip install ujson"
-------------------------
-Install SciPy
-Using pip: Run the following command in your terminal or command prompt:
-"pip install scipy"
-------------------------
-Install Matplotlib
-Using pip: Run the following command in your terminal or command prompt:
-"pip install matplotlib"
-------------------------
-Install pandas
-Using pip: Run the following command in your terminal or command prompt:
-"pip install pandas"
-------------------------
+bash setup.sh
 ```
 
-Note some command prompts may require different package management systems. Substitute `"pip"` for `"pip3"` if the commands do not work.
+7. Follow the on-screen prompts. This includes clicking enter and security checks to confirm your device password and provide permissions to install necessary libraries.
+
+Once you have provided ample time for this setup process to complete and you have received confirmation of Java file compilation, you are ready to [get started](#getting-started).
 
 ## Getting Started
 
