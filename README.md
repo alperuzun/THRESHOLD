@@ -47,7 +47,7 @@ Open `THRESHOLD` in the development environment of your choice, although `VS Cod
 ```bash
 cd directory_path
 ```
-Replace `directory path` with the file path copied from step 4. 
+**Replace `directory path` with the file path copied from step 4. 
 
 6. Next, run the following set up script to automatically download all required dependencies and compile the cleaning script:
 
