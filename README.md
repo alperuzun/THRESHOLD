@@ -11,7 +11,7 @@ In summary, the "THRESHOLD" tool serves as a useful addition to genomics researc
 
 - [Installation](#installation)
   - [Application Download](#application-download)
-  - [Set Up](#set-up)
+  - [Setup](#setup)
 - [Getting Started](#getting-started)
   - [Running the Application](#running-the-application)  
   - [File Format](#file-format) 
@@ -36,7 +36,7 @@ To install `THRESHOLD` simply click the installation link below.
 
 Open `THRESHOLD` in the development environment of your choice, although `VS Code` is recommended. 
 
-### Set Up
+### Setup
 
 1. To run `THRESHOLD`, ensure you have `Java 8+` and `Python 3.8+` installed. Ensure appropriate IDE specific extensions are also installed for `Java` and `Python`. 
 2. Next navigate to your `THRESHOLD` folder that you have just downloaded and locate the `setup.sh` file.
