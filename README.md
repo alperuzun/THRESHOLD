@@ -87,7 +87,7 @@ Hugo_Symbol        {Blank}           {Patient1ID}           {Patient2ID}...
 ## Navigation
 
 ### Uploading a File
-<img src="https://github.com/alperuzun/THRESHOLD/blob/main/threshold/assets/page1.png?raw=true" alt="Page 1 Image" height= 240 align = "left" >
+<img src="https://github.com/alperuzun/THRESHOLD/blob/main/threshold 5/assets/page1.png?raw=true" alt="Page 1 Image" height= 240 align = "left" >
 
 To begin the analysis, simply upload a `.txt` file in the appropriate [file format](#file-format) by clicking on the `Open File` button. 
 
@@ -98,7 +98,7 @@ To view `info` and `documentation` of the tool, press the appropriate icons in t
 <br clear="left"/>
 
 ### Calculating Saturation
-<img src="https://github.com/alperuzun/THRESHOLD/blob/main/threshold/assets/page2.png?raw=true" alt="Page 2 Image" height= 240 align = "left"  >
+<img src="https://github.com/alperuzun/THRESHOLD/blob/main/threshold 5/assets/page2.png?raw=true" alt="Page 2 Image" height= 240 align = "left"  >
 
 Confirm your file is uploaded with the dialog below the `Generate` button.
 
@@ -110,7 +110,7 @@ If you would like to restart your analyses with a different file, press the rest
 <br clear="left"/>
 
 ### Data Output
-<img src="https://github.com/alperuzun/THRESHOLD/blob/main/threshold/assets/page3.png?raw=true" alt="Page 3 Image" height= 240 align = "left" style = "margin-bottom: 20px" >
+<img src="https://github.com/alperuzun/THRESHOLD/blob/main/threshold 5/assets/page3.png?raw=true" alt="Page 3 Image" height= 240 align = "left" style = "margin-bottom: 20px" >
 
 A saturation curve will appear indicating `saturation type` by `nth ranked gene`. See documentation for methods.
 
@@ -123,7 +123,7 @@ To export a `.png` file of the Graph, a `.txt` file of the saturation Data or a 
 To begin a new analysis with the same file, press the back button. If you would like to restart your analysis entirely, press the restart button.
 
 ### Run Unpaired T Test
-<img src="https://github.com/alperuzun/THRESHOLD/blob/main/threshold/assets/page4.png?raw=true" alt="Page 4 Image" height= 240 align = "left" style = "margin-bottom: 20px" >
+<img src="https://github.com/alperuzun/THRESHOLD/blob/main/threshold 5/assets/page4.png?raw=true" alt="Page 4 Image" height= 240 align = "left" style = "margin-bottom: 20px" >
 
 `THRESHOLD` facilitates the statistical comparison between two saturation data sets to assess whether there are statistically significant differences between samples to provide additional insights in user analyses. 
 
@@ -136,7 +136,7 @@ To run the test, simply press the `Run Unpaired-T-Test` button.
 To navigate back home, simply press restart in the top right corner. 
 
 ### Assess Significance
-<img src="https://github.com/alperuzun/THRESHOLD/blob/main/threshold/assets/page5.png?raw=true" alt="Page 5 Image" height= 240 align = "left" style = "margin-bottom: 20px" >
+<img src="https://github.com/alperuzun/THRESHOLD/blob/main/threshold 5/assets/page5.png?raw=true" alt="Page 5 Image" height= 240 align = "left" style = "margin-bottom: 20px" >
 
 This page simply outlines the result of your analyses, describing whether the differences between the saturation types in each data set yielded `statistically significant` differences. 
 
