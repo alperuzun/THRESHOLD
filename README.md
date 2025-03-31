@@ -84,7 +84,7 @@ Hugo_Symbol        {Blank}           {Patient1ID}           {Patient2ID}...
 
 * The columns must be separated by a tab `'\t'`
 
-An example file is available in the GitHub repository. It contains a normalized Pancreatic Adenocarcinoma dataset from TCGA (PanCancer Atlas), sourced from cBioPortal [https://www.cbioportal.org/study/summary?id=paad_tcga_pan_can_atlas_2018]. This dataset is an abbreviated version, including only 10 patient samples for demonstration purposes.
+An example file is available in the GitHub repository. It contains a normalized Pancreatic Adenocarcinoma dataset from TCGA (PanCancer Atlas), sourced from [cBioPortal](https://www.cbioportal.org/study/summary?id=paad_tcga_pan_can_atlas_2018). This dataset is an abbreviated version, including only 10 patient samples for demonstration purposes.
 
 ## Navigation
 
