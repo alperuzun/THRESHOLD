@@ -55,7 +55,7 @@ cd directory_path
 bash setup.sh
 ```
 
-7. Follow the on-screen prompts. This includes clicking enter and security checks to confirm your device password and provide permissions to install necessary libraries.
+7. Follow the on-screen prompts. This includes clicking enter and security checks to confirm your device password and provide permissions to install necessary libraries. This includes NumPy, UltraJSON, SciPy, Matplotlib, pandas, and PyQt6. 
 
 Once you have provided ample time for this setup process to complete and you have received confirmation of Java file compilation, you are ready to [get started](#getting-started).
 
