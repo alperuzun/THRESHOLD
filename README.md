@@ -32,7 +32,7 @@ In summary, the "THRESHOLD" tool serves as a useful addition to genomics researc
 
 To install `THRESHOLD` simply click the installation link below.
 
-[THRESHOLD Download](https://drive.google.com/file/d/14PiWAlUpkcruer_4g3ZM7sIxe5tc0wDW/view?usp=sharing)
+[THRESHOLD Download](https://drive.google.com/file/d/1Wat3P8kQAIFH5_TY8lSfD7M-ITgFOav8/view?usp=sharing)
 
 Open `THRESHOLD` in the development environment of your choice, although `VS Code` is recommended. 
 
