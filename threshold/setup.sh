@@ -17,14 +17,13 @@ fi
 echo "Checking if OpenJDK is installed..."
 if ! brew list openjdk &>/dev/null; then
     echo "OpenJDK not found. Installing OpenJDK..."
-    brew install openjdk@17
+    brew install openjdk
     echo 'export JAVA_HOME="/opt/homebrew/opt/openjdk"' >> ~/.zprofile
     echo 'export PATH="$JAVA_HOME/bin:$PATH"' >> ~/.zprofile
     source ~/.zprofile
 else
     echo "OpenJDK is already installed."
 fi
-
 
 # Step 3: Install Python if not already installed
 echo "Checking if Python3 is installed..."
@@ -68,9 +67,9 @@ script_dir="$(cd "$(dirname "$0")" && pwd)"
 java_file="$script_dir/clean2.java"
 
 echo "Compiling Java file (clean2.java)..."
-if ! javac "$java_file"; then
+if ! javac --release 8 "$java_file"; then
     echo "Error: Compilation failed."
     exit 1
 else
-    echo "Java file compiled successfully."
+    echo "Java file compiled successfully (compatible with Java 8+)."
 fi

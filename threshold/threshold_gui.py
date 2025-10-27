@@ -149,7 +149,10 @@ class Page1(QWidget):
                 pass
             
             if self.pgene_checkbox.isChecked() != True:
-                subprocess.run(["java", "-cp", path, "clean2"], check=True)
+                subprocess.call(["java", path + "clean2.java"])
+
+
+                
             else:
                 os.rename("data.txt", "cleaned_data.txt")
                 with open("removed_genes.txt", "w"):
